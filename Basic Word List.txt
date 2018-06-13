@@ -286,9 +286,7 @@ ambidextrous adj.两手者瞎用的 capable of using either hand with equal ease
 
 ambience n.周围环境，气氛 environment; atmosphere. She went to the restaurant not for the food but for the ambience.
 
-■	ambiguous adj.暧昧的，含糊其辞的 unclear or doubtful in meaning. His ambiguous instructions misled us; we did
-
-not know which road to take, ambiguity, n.
+■	ambiguous adj.暧昧的，含糊其辞的 unclear or doubtful in meaning. His ambiguous instructions misled us; we did not know which road to take, ambiguity, n.
 
 ■ ambivalence n.矛盾情绪或态度 the state of having contradictory or conflicting emotional attitudes. Torn between loving her parents one minute and hating them the next; she was confused by the ambivalence of her feelings, ambivalent, adj.
 
@@ -299,7 +297,7 @@ ing his skateboard up and down the halls.
 
 ameliorate v.改善，改进 improve. Many social workers have attempted to ameliorate the conditions of people living in the slums.
 
-amenable ad丄顺从的，服从启导的 readily managed; willing to be led. Although the ambassador was usually amenable to friendly suggestions, he balked when we hinted that he should waive his diplomatic immunity and pay his parking tickets.
+amenable adj.顺从的，服从启导的 readily managed; willing to be led. Although the ambassador was usually amenable to friendly suggestions, he balked when we hinted that he should waive his diplomatic immunity and pay his parking tickets.
 
 amend v.修正，改进 correct; change, generally for the better. Hoping to amend his condition, he left Vietnam for the United States.
 Word List 3 amenities-apostate
@@ -772,7 +770,7 @@ bauble n.小玩意 trinket; trifle. The child was delighted with the bauble she 
 
 bawdy adj.下流的；低级的 indecent; obscene. Jack took offense at Jill’s bawdy remarks. What kind of young man did she think he was?
 
-beam n.光束！木梁；电波 ray of light; long piece of metal or wood; course of a radio signal, v.面露喜色，满脸堆笑 smile radiantly. If a beam of light falls on you, it illuminates you; if a beam of iron falls on you, it eliminates you. (No one feels like beaming when crushed by an iron beam.) 
+beam n.光束！木梁；电波 ray of light; long piece of metal or wood; course of a radio signal, v.面露喜色，满脸堆笑 smile radiantly. If a beam of light falls on you, it illuminates you; if a beam of iron falls on you, it eliminates you. (No one feels like beaming when crushed by an iron beam.)
 
 beatific adj.祝福的，幸福的 giving bliss; blissful. The beatific smile on the child’s face made us very happy.
 
