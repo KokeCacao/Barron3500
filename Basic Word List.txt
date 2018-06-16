@@ -32,8 +32,9 @@ abominable adj.讨厌的，令人憎恶的，极坏的detestable; extremely unpl
 
 aboriginal adj.;n. 土著的，原始的；土著居民 being the first of its kind in a region; primitive; native. Her studies of the primitive art forms of the aboriginal Indians were widely reported in the scientific journals, aborigines, n.
 
-abortive adj.失败的；夭折的 unsuccessful; fruitless. Attacked by armed troops, they had to abandon their
-abortive attempt to democratize the city peacefully, abort, v. abrade v.磨损，磨蚀 wear away by friction; scrape; erode. Because the sharp rocks had abraded the skin on her legs, she dabbed iodine on the scrapes and abrasions.
+abortive adj.失败的；夭折的 unsuccessful; fruitless. Attacked by armed troops, they had to abandon their abortive attempt to democratize the city peacefully, abort, v.
+
+abrade v.磨损，磨蚀 wear away by friction; scrape; erode. Because the sharp rocks had abraded the skin on her legs, she dabbed iodine on the scrapes and abrasions.
 
 abrasive adj.磨损的；生硬粗暴的 rubbing away; tending to grind down. Just as abrasive cleaning powders can wear away a shiny finish, abrasive remarks can wear away a listener's patience, abrade, v.
 
@@ -45,7 +46,9 @@ abscond v.潜逃 depart secretly and hide. The teller who absconded with the bon
 
 absolute adj.完全的，无限制的，绝对的complete; totally unlimited; certain. Although the King of Siam was an absolute monarch, he did not want to behead his unfaithful wife without absolute evidence of her infidelity, absolve v.赦免 pardon (an offense). The father confessor absolved him of his sins, absolution, n.
 
-absorb v.同化；吸人,使全神贯注 assimilate or incorporate; suck or drink up; wholly engage. During the nineteenth century, America absorbed hordes of immigrants, turning them into productive citizens. Can Huggies diapers absorb more liquid than Pampers can? This question does not absorb me; instead, it bores me. absorption, n. abstain v.自制，禁绝 refrain; hold oneself back voluntarily from an action or practice. After considering the effect of alcohol on his athletic performance, he decided to abstain from drinking while he trained for the race, abstinence, n.
+absorb v.同化；吸人,使全神贯注 assimilate or incorporate; suck or drink up; wholly engage. During the nineteenth century, America absorbed hordes of immigrants, turning them into productive citizens. Can Huggies diapers absorb more liquid than Pampers can? This question does not absorb me; instead, it bores me. absorption, n.
+
+abstain v.自制，禁绝 refrain; hold oneself back voluntarily from an action or practice. After considering the effect of alcohol on his athletic performance, he decided to abstain from drinking while he trained for the race, abstinence, n.
 
 ■	abstemious adj.有节制的，适度的 sparing in eating and drinking; temperate. Concerned whether her vegetarian son's abstemious diet provided him with sufficient protein, the worried mother pressed food on him.
 
@@ -514,25 +517,11 @@ aromatic adj.芬芳的 fragrant. Medieval sailing vessels
 
 brought aromatic herbs from China to Europe.
 
-arousal n.觉醒；激励 awakening; provocation (of a
+arousal n.觉醒；激励 awakening; provocation (of a response). On arousal, Papa was always grumpy as a bear. The children tiptoed around the house, fearing they would arouse his anger by waking him up.
 
-response). On arousal, Papa was always grumpy as a bear.
+arraign v.传讯，控告 charge in court; indict. After his indictment by the Grand Jury, the accused man was arraigned in the County Criminal Court.
 
-The children tiptoed around the house, fearing they would
-
-arouse his anger by waking him up.
-
-arraign v.传讯，控告 charge in court; indict. After his
-
-indictment by the Grand Jury, the accused man was
-
-arraigned in the County Criminal Court.
-
-array v.部署，排列 marshal; draw up in order. His
-
-actions were bound to array public sentiment against him.
-
-also n.
+array v.部署，排列 marshal; draw up in order. His actions were bound to array public sentiment against him. also n.
 
 array v.着盛装，装饰 clothe; adorn. She liked to watch her mother array herself in her finest clothes before going out for the evening, also n.
 
@@ -698,7 +687,9 @@ averse adj.不愿意的，反）的 reluctant; disinclined. The reporter was ave
 
 •	aviary n.大型鸟舍 enclosure for birds. The aviary at the zoo held nearly 300 birds.
 
-avid adj.渴望的 greedy; eager for. Avid for pleasure, Abner partied with great avidity, avidity, n. avocation n.畐ij业 secondary or minor occupation. His hobby proved to be so fascinating and profitable that gradually he abandoned his regular occupation and concentrated on his avocation.
+avid adj.渴望的 greedy; eager for. Avid for pleasure, Abner partied with great avidity, avidity, n.
+
+avocation n.畐ij业 secondary or minor occupation. His hobby proved to be so fascinating and profitable that gradually he abandoned his regular occupation and concentrated on his avocation.
 
 avow v.发誓 declare openly. Lana avowed that she never meant to steal Debbie's boyfriend, but no one believed her avowal of innocence.
 
