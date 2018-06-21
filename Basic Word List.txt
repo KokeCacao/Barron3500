@@ -75,7 +75,7 @@ accede v.同意 agree. If I accede to this demand for blackmail, I am afraid tha
 
 accelerate v.加速 move faster. In our science class, we learn how falling bodies accelerate.
 
-accentuate v.强调，重读 emphasize; stress. If you accentuate the positive and eliminate the negative, you may wind up with an ov㊀「optimistic view of the world.
+accentuate v.强调，重读 emphasize; stress. If you accentuate the positive and eliminate the negative, you may wind up with an over optimistic view of the world.
 
 ■	accessible adj.易接近的，易得到的 easy to approach; obtainable. We asked our guide whether the ruins were accessible on foot.
 
@@ -250,7 +250,7 @@ alienate v.离间，使孤立 make hostile; separate. Her attempts to alienate t
 
 alimentary adj.提供营养的 supplying nourishment. The alimentary canal in our bodies is so named because digestion of foods occurs there. When asked for the name of the digestive tract, Sherlock Holmes replied, "Alimentary, my dear Watson."
 
-alimony n.(离婚后的）赡养费，生活费payments made to an ex-spouse after divorce. Because Tony had supported Tina through medical school, on their divorce he asked the court to award him $500 a month in alimony.
+alimony n.(离婚后的）赡养费，生活费 payments made to an ex-spouse after divorce. Because Tony had supported Tina through medical school, on their divorce he asked the court to award him $500 a month in alimony.
 
 allay v.减轻，使冷静 calm; pacify. The crew tried to allay the fears of the passengers by announcing that the fire had
 been controlled.
@@ -261,7 +261,11 @@ allegiance n.忠贞，效忠 loyalty. Not even a term in prison could shake Lech
 
 allegory n.寓言 story in which characters are used as symbols; fable. Pilgrim's Progress is an allegory of the temptations and victories of man's soul, allegorical, adj.
 
-■	alleviate v.减轻 relieve. This should alleviate the pain; if it does not, we shall have to use stronger drugs, alliteration n.头韵 repetition of beginning sound in poetry. "The furrow followed free" is an example of alliteration. allocate v.分派，分配 assign. Even though the Red Cross had allocated a large sum for the relief of the sufferers of the disaster, many people perished.
+■	alleviate v.减轻 relieve. This should alleviate the pain; if it does not, we shall have to use stronger drugs
+
+alliteration n.头韵 repetition of beginning sound in poetry. "The furrow followed free" is an example of alliteration.
+
+allocate v.分派，分配 assign. Even though the Red Cross had allocated a large sum for the relief of the sufferers of the disaster, many people perished.
 
 alloy n.合金 a mixture as of metals. Alloys of gold are used more frequently than the pure metal.
 
@@ -275,7 +279,7 @@ allusion n.提及，暗示 indirect reference. When Amanda said to the ticket sc
 
 aloft adv.在高处，在上 upward. The sailor climbed aloft into the rigging. To get into a loft bed, you have to climb aloft.
 
-■	aloof adj.孤零的，冷漠的 apart; reserved. Shy by nature, she remained a/oof while all the rest conversed.
+■	aloof adj.孤零的，冷漠的 apart; reserved. Shy by nature, she remained aloof while all the rest conversed.
 
 altercation n.激烈的争论，争吵 noisy quarrel; heated dispute. In that hot- tempered household, no meal ever came to a peaceful conclusion; the inevitable altercation might even end in blows.
 
@@ -693,7 +697,7 @@ avocation n.畐ij业 secondary or minor occupation. His hobby proved to be so fa
 
 avow v.发誓 declare openly. Lana avowed that she never meant to steal Debbie's boyfriend, but no one believed her avowal of innocence.
 
-avuncular adj.(像)叔{白的 like an uncle. Avuncular
+avuncular adj.像叔叔一樣的 like an uncle. Avuncular
 
 pride did not prevent him from noticing his nephew's shortcomings.
 
@@ -927,9 +931,9 @@ boorish adj.粗鲁的；不敏感的 rude; insensitive. Though Mr. Collins const
 
 boundless adj.无边无界的 unlimited; vast. Mike's energy was boundless: the greater the challenge, the more vigorously he tackled the job.
 
-bountiful adj.富足的；慷慨的 abundant; graciously generous. Thanks to the good harvest, we had a bountiful supply of food and we could be as bountiful as we liked in distributing food to the needy、
+bountiful adj.富足的；慷慨的 abundant; graciously generous. Thanks to the good harvest, we had a bountiful supply of food and we could be as bountiful as we liked in distributing food to the needy.
 
-bourgeois n.;adj.中产阶级,渴求名利的；平庸的middle class; selfishly materialistic; dully conventional. Technically, anyone who belongs to the middle class is bourgeois, but, given the word's connotations, most people resent it if you call them that.
+bourgeois n.;adj.中产阶级,渴求名利的；平庸的 middle class; selfishly materialistic; dully conventional. Technically, anyone who belongs to the middle class is bourgeois, but, given the word's connotations, most people resent it if you call them that.
 
 bovine adj.牛的;迟钝的 cowlike; placid and dull. Nothing excites Esther; even when she won the state lottery, she still preserved her air of bovine calm.
 
@@ -1085,7 +1089,11 @@ caprice n.行动的突然变化；怪念头sudden, unexpected fancy; whim. On a 
 
 ■ capricious adj.变化无常的 unpredictable; fickle. The storm was capricious: it changed course constantly. Jill was capricious, too: she changed boyfriends almost as often as she changed clothes.
 
-caption n.标题；字幕 title; chapter heading; text under illustration. The captions that accompany The Far Side cartoons are almost as funny as the pictures, also v. captivate v.迷住 charm or enthrall.巳art and Lisa were captivated by their new nanny's winning manner, carat n.克拉 unit of weight for precious stones; measure of fineness of gold. He gave her a three-ca厂af diamond mounted in an eighteen-cara^ gold band.
+caption n.标题；字幕 title; chapter heading; text under illustration. The captions that accompany The Far Side cartoons are almost as funny as the pictures, also v.
+
+captivate v.迷住 charm or enthrall.eart and Lisa were captivated by their new nanny's winning manner.
+
+carat n.克拉 unit of weight for precious stones; measure of fineness of gold. He gave her a three-carat diamond mounted in an eighteen-carat gold band.
 
 cardinal adj.主要的 chief. If you want to increase your word power, the cardinal rule of vocabulary-building is to read.
 
@@ -1468,8 +1476,9 @@ congenial adj.相宜的，合意的 pleasant; friendly. My father loved to go ou
 congenital adj.天生的 existing at birth. Were you born stupid, or did you just turn out this way? In other words, is your idiocy acquired or congenital? Doctors are able to cure some congenital deformities such as cleft palates by performing operations on infants.
 Word List 11 conglomeration-countermand
 
-conglomeration n.团块，混合物 mass of material sticking together. In such a conglomeration of miscellaneous statistics, it was impossible to find a single area of analysis, congruent adj. 一致的 in agreement; corresponding. In formulating a hypothesis, we must keep it congruent with
-what we know of the real world; it cannot disagree with our experience.
+conglomeration n.团块，混合物 mass of material sticking together. In such a conglomeration of miscellaneous statistics, it was impossible to find a single area of analysis
+
+congruent adj. 一致的 in agreement; corresponding. In formulating a hypothesis, we must keep it congruent with what we know of the real world; it cannot disagree with our experience.
 
 conifer n.松类 pine tree; cone-bearing tree. According to geologists, the conifers were the first plants to bear flowers.
 
